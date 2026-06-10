@@ -20,17 +20,40 @@
 
 ## 🧑‍💻 About Me
 
-```js
-const kzTutorial = {
-  name     : "Kz Tutorial",
-  origin   : "Indonesia 🇮🇩",
-  roles    : ["Termux Modder", "Tool Builder", "Shell Scripter"],
-  tools    : ["Bash", "Node.js", "JavaScript", "Python", "Lua", "HTML/CSS"],
-  passion  : "Building powerful tools for mobile users 📱",
-  github   : "github.com/Kztutorial99",
-  motto    : "Code it. Mod it. Ship it. 🚀"
-};
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Name-Kz%20Tutorial-A78BFA?style=flat-square&logo=person&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/From-Indonesia%20🇮🇩-FF6B6B?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Role-Termux%20Modder-00C9A7?style=flat-square&logo=android&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Role-Tool%20Builder-00C9A7?style=flat-square&logo=gnubash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Focus-Mobile%20Tools%20📱-F7B731?style=flat-square" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Motto-Code%20it.%20Mod%20it.%20Ship%20it%20🚀-A78BFA?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> *"Building powerful tools for mobile users, one script at a time."*
+
+</div>
 
 <br/>
 
