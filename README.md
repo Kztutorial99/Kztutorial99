@@ -1,47 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kz.tutorial&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Developer%20%26%20Modder%20from%20Indonesia%20🇮🇩&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Kz%20Tutorial&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Termux%20Modder%20%7C%20Game%20Dev%20%7C%20Web%20Builder%20%7C%20%F0%9F%87%AE%F0%9F%87%A9%20Indonesia&descAlignY=62&descSize=17&descColor=a0a0ff" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+GitHub+Profile!+👋;Termux+Tools+%26+Modder+🛠️;Game+Mod+Developer+🎮;Building+cool+stuff+from+Indonesia+🇮🇩" alt="Typing SVG" />
-</a>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=550&height=50&lines=👋+Welcome+to+my+GitHub!;🛠️+Builder+of+Termux+Tools;🎮+Mobile+Game+Mod+Developer;🌐+Web+Panel+%26+UI+Creator;🚀+Always+Building+Something+New)](https://github.com/Kztutorial99)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Developer-Kztutorial99-A78BFA?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=Kztutorial99&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-```python
-class KzTutorial:
-    name       = "Kz.tutorial"
-    location   = "Indonesia 🇮🇩"
-    role       = ["Developer", "Modder", "Tool Builder"]
-    interests  = ["Termux", "Game Mods", "Web Panel", "CLI Tools", "AI"]
-    github     = "github.com/Kztutorial99"
-    status     = "Always learning & building 🚀"
+```js
+const kzTutorial = {
+  name     : "Kz Tutorial",
+  origin   : "Indonesia 🇮🇩",
+  roles    : ["Termux Modder", "Game Mod Dev", "Web Panel Builder"],
+  tools    : ["Bash", "Node.js", "JavaScript", "Python", "Lua", "HTML/CSS"],
+  passion  : "Building powerful tools for mobile users 📱",
+  github   : "github.com/Kztutorial99",
+  motto    : "Code it. Mod it. Ship it. 🚀"
+};
 ```
 
+<br/>
+
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=bash,nodejs,js,python,html,css,lua,git,github,linux,vscode,androidstudio&theme=dark&perline=6"/>
 
 </div>
+
+<br/>
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img width="48" src="https://img.icons8.com/nolan/64/console.png"/><br/>
+      <b>Termux Tools</b><br/>
+      <sub>Custom builds, mods & scripts for Android terminal</sub>
+    </td>
+    <td align="center" width="200">
+      <img width="48" src="https://img.icons8.com/nolan/64/controller.png"/><br/>
+      <b>Game Mods</b><br/>
+      <sub>Mobile MOBA, 8 Ball Pool, Blood Strike & more</sub>
+    </td>
+    <td align="center" width="200">
+      <img width="48" src="https://img.icons8.com/nolan/64/web.png"/><br/>
+      <b>Web Panel & UI</b><br/>
+      <sub>Control panels, dashboards & modern web interfaces</sub>
+    </td>
+    <td align="center" width="200">
+      <img width="48" src="https://img.icons8.com/nolan/64/code.png"/><br/>
+      <b>Shell Scripts</b><br/>
+      <sub>Automation, loaders & powerful bash utilities</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
@@ -49,42 +87,37 @@ class KzTutorial:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kztutorial99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kztutorial99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kztutorial99&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true&count_private=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kztutorial99&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Kztutorial99&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" width="500"/>
+<br/>
+<img src="https://streak-stats.demolab.com?user=Kztutorial99&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C9D1D9&currStreakNum=ffffff&sideNums=ffffff" width="500"/>
 </div>
+
+<br/>
 
 ---
 
-## 🎯 What I Build
+## 📈 Contribution Activity
 
 <div align="center">
-
-| 🛠️ Termux Tools | 🎮 Game Mods | 🌐 Web Panel | 🤖 CLI & AI |
-|:---:|:---:|:---:|:---:|
-| Custom Termux builds & mods | Mobile MOBA, 8 Ball Pool, Blood Strike | Control Panels & UI | Gemini CLI, AI tools |
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kztutorial99&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6B6B&area=true&area_color=A78BFA&hide_border=true" width="100%"/>
 </div>
 
----
-
-## 📈 Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kztutorial99&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" width="100%"/>
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-### 👁️ Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=Kztutorial99&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+**⭐ If you like my work, consider starring my repos! ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
